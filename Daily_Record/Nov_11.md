@@ -15,7 +15,7 @@ Done:
 
 Foundations of Data Analytics: Topic 4: String Similarity
 
-## 10.31
+## 10.31: Nothing
 
 Plan:
 
@@ -24,3 +24,15 @@ Machine Learning: HA5
 Math foundations of Data analytics: HW3
 
 NLP: Subtask-A Baseline
+
+Done:
+
+Nothing
+
+## 11.01
+
+Plan:
+
+Machine Learning: HA5
+
+Math foundations of Data analytics: HW3
