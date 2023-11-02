@@ -29,10 +29,14 @@ Done:
 
 Nothing
 
-## 11.01
+## 11.01: Learn how to fine tune BERT
 
 Plan:
 
 Machine Learning: HA5
 
 Math foundations of Data analytics: HW3
+
+Done:
+
+Fine tuning part of HA5
