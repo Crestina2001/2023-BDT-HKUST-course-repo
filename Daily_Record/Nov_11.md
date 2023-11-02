@@ -40,3 +40,12 @@ Math foundations of Data analytics: HW3
 Done:
 
 Fine tuning part of HA5
+
+## 11.02
+
+Plan:
+
+Machine Learning: HA5
+
+Math foundations of Data analytics: HW3
+
