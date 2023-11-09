@@ -86,10 +86,38 @@ Done: Math foundations of Data analytics: HW3
 
 # Second Week
 
-## 11.06:
+## 11.06: Nothing
 
 Plan:
 
 NLP-subtask-A
 
-Foundations of Data Analytics: Topic 5: Minhashing and Locality-sensitive Hashing  
+Foundations of Data Analytics: Topic 5: Minhashing and Locality-sensitive Hashing
+
+Done:
+
+Nothing
+
+## 11.07: NLP-subtask-A running
+
+Plan: Nothing
+
+Done:
+
+NLP-subtask-A running
+
+## 11.08: Training Wav2Lip
+
+Plan: Nothing
+
+Done:
+
+Training Wav2Lip
+
+## 11.09:
+
+Plan: 
+
+Train contentvec-wav2lip
+
+5001 assignment 2
