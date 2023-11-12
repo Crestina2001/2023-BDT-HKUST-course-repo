@@ -114,10 +114,26 @@ Done:
 
 Training Wav2Lip
 
-## 11.09:
+## 11.09: Nothing
 
 Plan: 
 
 Train contentvec-wav2lip
 
 5001 assignment 2
+
+Done:
+
+Nothing
+
+## 11.10: Finish the coding of contentvec-wav2lip
+
+## 11.11: Nothing
+
+## 11.12
+
+Plan: 
+
+5001 Assignment 2
+
+ML HA5
