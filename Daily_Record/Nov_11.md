@@ -130,10 +130,24 @@ Nothing
 
 ## 11.11: Nothing
 
-## 11.12
+# Third Week
+
+## 11.12: Nothing
 
 Plan: 
 
 5001 Assignment 2
 
 ML HA5
+
+Done:
+
+Nothing
+
+## 11.13:
+
+Plan:
+
+ML HA5
+
+ML HW4
